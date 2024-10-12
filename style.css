@@ -1,0 +1,30 @@
+.landing {
+    background-color: darkblue;
+    min-height: calc(100vh - 72px);
+}
+
+.main-btn {
+    background-color: darkred;
+    color: yellow;
+}
+
+.logo-img {
+    width: 200px; 
+    height: auto;  
+}
+
+.paragraph-line {
+    border: 0;
+    border-top: 2px solid lightblue;
+    width: 50%; /* Adjust the width as needed */
+    margin: 20px auto; /* Center the line */
+}
+
+/* Line at the bottom of the section */
+.bottom-line {
+    border: 0;
+    border-top: 2px solid lightblue;
+    width: 80%; /* Adjust the width as needed */
+    margin-top: 40px; /* Space from the section */
+    margin-bottom: 0;
+}
